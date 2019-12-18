@@ -23,8 +23,6 @@ C
 
 C#
 
-C++
-
 JH
 
 Joshua
