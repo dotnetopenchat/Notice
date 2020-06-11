@@ -136,7 +136,7 @@ Azure
 
 B2
 
-Beta/초기유저&사용자...
+Beta/초기유저&사용자... (처리완료 By 키모)
 
 c#
 
@@ -144,7 +144,7 @@ c# 시니비
 
 c# 입문
 
-C# 초보
+C# 초보 (처리완료 By 키모)
 
 c#초보
 
@@ -152,7 +152,7 @@ C#초보개발자
 
 C++++
 
-CButtonST
+CButtonST (처리완료 By 키모)
 
 Chruit
 
@@ -192,9 +192,9 @@ Satoru Yamaguchi
 
 SeeSharp
 
-sims
+sims (처리완료 By 키모)
 
-SK
+SK (처리완료 By 키모)
 
 socket
 
@@ -206,15 +206,15 @@ Zerone
 
 0년차직군
 
-_-_
+_-_ (처리완료 By 키모)
 
-,
+,   (처리완료 By 키모)
 
-.
+.     (처리완료 By 키모)
 
-.
+.     (처리완료 By 키모)
 
-.ㅓㄹ
+.ㅓㄹ (처리완료 By 키모)
 
 ㅠㅠ
 
