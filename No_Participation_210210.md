@@ -7,11 +7,11 @@
 <br />
 <br />
 No 1.<br />
-&nbsp;&nbsp;1. [구원모] [구현] [글디] [김닷넷] [김소현]<br />
-&nbsp;&nbsp;2. [김신명] [김은혜] [꼬꼬] [꼬꼬마] [꾹]<br />
-&nbsp;&nbsp;3. [나나니벌] [냥] [늅늅입니다.] [달미] [닷넷5]<br />
-&nbsp;&nbsp;4. [닷넷개발자] [닷넷공부생] [닷넷롱] [닷넽] [닷돌이]<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[wise] [Lucky]<br />
+<del>&nbsp;&nbsp;1. [구원모] [구현] [글디] [김닷넷] [김소현]<br />
+<del>&nbsp;&nbsp;2. [김신명] [김은혜] [꼬꼬] [꼬꼬마] [꾹]<br />
+<del>&nbsp;&nbsp;3. [나나니벌] [냥] [늅늅입니다.] [달미] [닷넷5]<br />
+<del>&nbsp;&nbsp;4. [닷넷개발자] [닷넷공부생] [닷넷롱] [닷넽] [닷돌이]<br />
+<del>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[wise] [Lucky]<br />
 <br />
 No 2.<br />
 <del>&nbsp;&nbsp;5. [도비살행자] [동동] [드디어] [떙떙] [루키]</del><br />
