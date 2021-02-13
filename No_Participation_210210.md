@@ -14,11 +14,11 @@ No 1.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[wise] [Lucky]<br />
 <br />
 No 2.<br />
-&nbsp;&nbsp;5. [도비살행자] [동동] [드디어] [떙떙] [루키]<br />
-&nbsp;&nbsp;6. [몰라!!] [민수영] [바끄] [박재현] [반찬]<br />
-&nbsp;&nbsp;7. [밥#] [배영찬] [백수개발자] [봉봉] [부릉부릉]<br />
-&nbsp;&nbsp;8. [서울.나르키소스.남] [송이] [수수] [시니어이고싶은 주니어] [씨샤압]<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wpf초보] [psh]<br />
+<del>&nbsp;&nbsp;5. [도비살행자] [동동] [드디어] [떙떙] [루키]</del><br />
+<del>&nbsp;&nbsp;6. [몰라!!] [민수영] [바끄] [박재현] [반찬]</del><br />
+<del>&nbsp;&nbsp;7. [밥#] [배영찬] [백수개발자] [봉봉] [부릉부릉]</del><br />
+<del>&nbsp;&nbsp;8. [서울.나르키소스.남] [송이] [수수] [시니어이고싶은 주니어] [씨샤압]</del><br />
+<del>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wpf초보] [psh]</del><br />
 <br />
 No 3.<br />
 &nbsp;&nbsp;9. [아노] [아무것도모르는데 WPF 회사에서 시킴] [아이보리] [안녕하세요] [안지영]<br />
