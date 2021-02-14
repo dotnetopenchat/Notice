@@ -35,8 +35,8 @@ No 4.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SourGexko]<br />
 <br />
 No 5.<br />
-17. [호잇] [화성] [힘내라임세연아] [히힛] [aa]<br />
+<del>17. [호잇] [화성] [힘내라임세연아] [히힛] [aa]<br />
 18. [asap] [BK] [c# 공부 시작..] [C# 입문중] [c# wpf 개발자]<br />
 19. [C#궁금이] [c#모여라] [callvirt] [chobo/36/아산] [DevC]<br />
 20. [Good] [Jameshong] [Jimmy] [kabyeon] [Kain]<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kan] <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kan] <br /></del>
